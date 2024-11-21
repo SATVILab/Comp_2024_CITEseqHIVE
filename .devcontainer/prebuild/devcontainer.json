@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/miguelrodo/comptemplate",
+  "image": "ghcr.io/satvilab/comp_2024_citeseqhive",
   "customizations": {
     "vscode": {
       "extensions": [
